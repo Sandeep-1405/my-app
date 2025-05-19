@@ -16,7 +16,7 @@ const Home = () => {
         <meta property="og:url" content="https://yourwebsite.com" />
         <meta
           property="og:image"
-          content="https://images.pexels.com/photos/1323550/pexels-photo-1323550.jpeg?cs=srgb&dl=pexels-simon73-1323550.jpg&fm=jpg"
+          content="https://wordtracker-swoop-uploads.s3.amazonaws.com/uploads/ckeditor/pictures/2090/content_beach.jpg"
         />
 
         <meta name="twitter:card" content="summary_large_image" />
@@ -27,7 +27,7 @@ const Home = () => {
         />
         <meta
           name="twitter:image"
-          content="https://images.pexels.com/photos/1323550/pexels-photo-1323550.jpeg?cs=srgb&dl=pexels-simon73-1323550.jpg&fm=jpg"
+          content="https://wordtracker-swoop-uploads.s3.amazonaws.com/uploads/ckeditor/pictures/2090/content_beach.jpg"
         />
       </Helmet>
       <h1>Home</h1>
